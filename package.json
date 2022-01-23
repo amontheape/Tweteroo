@@ -1,6 +1,7 @@
 {
   "name": "projeto_11_tweteroo",
   "version": "1.0.0",
+  "type": "module",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -18,6 +19,7 @@
   },
   "homepage": "https://github.com/amontheape/Tweteroo#readme",
   "dependencies": {
+    "cors": "^2.8.5",
     "express": "^4.17.2",
     "nodemon": "^2.0.15"
   }
